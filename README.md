@@ -1,10 +1,7 @@
-<a href="https://chat.vercel.ai/">
+<a href="https://chatbot.ai-sdk.dev/">
   <img alt="Next.js 14 and App Router-ready Chatbot." src="app/(chat)/opengraph-image.png">
   <h1 align="center">Chatbot</h1>
-</a>https://chatbot.ai-sdk.dev/
-
-<p align="center">
-    Chatbot (formerly AI Chatbot) is a free, open-source template built with Next.js and the AI SDK that helps you quickly build powerful chatbot applications.
+</a> Chatbot (formerly AI Chatbot) is a free, open-source template built with Next.js and the AI SDK that helps you quickly build powerful chatbot applications.
 </p>
 
 <p align="center">
